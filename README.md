@@ -1,4 +1,15 @@
 # 7sem
+## Содержание
+- [Ссылки](https://github.com/sanyagribanov/7sem/edit/main/README.md#ссылки)
+- [Скриншоты](https://github.com/sanyagribanov/7sem/edit/main/README.md#скриншоты)
+- [Организация](https://github.com/sanyagribanov/7sem/edit/main/README.md#организация)
 ## Ссылки
-- [Информация по демоэкзамену](https://esat.worldskills.ru/competencies/dac59f20-134b-4aa4-94e5-518c488ccc9e/categories/d747aed4-5204-4ab4-a3f1-dec61f99735d)
+- [Информация по демоэкзамену](https://api.dp.worldskills.ru/api/esatk/docs/4d0d9337-1f31-4306-89bb-f3b279e80642)
 - [Презентация](https://vk.com/away.php?utf=1&to=https%3A%2F%2Fdocs.google.com%2Fdocument%2Fd%2F17dkgRFIxEAdOvFsUuCD5TGeWHCqcC7U-Ha5MJ0EfdtI%2Fedit%23)
+## Скриншоты
+![изображение](https://user-images.githubusercontent.com/86486142/188391263-0ad59825-ea59-4a24-8a28-72737fdf1875.png)
+## Организация
+Модуль 1: Анализ и проектирование требований, бизнес-процессов - UML-диаграмма<br>
+Модуль 2: Проектирование реляционного хранилища данных - создание БД<br>
+Модуль 3: Разработка баз данных, объектов баз данных и импорт - импорт из Excel-файла, текстового и CSV-файла<br>
+Модуль 4: Разработка desktop-приложений - WPF<br>
