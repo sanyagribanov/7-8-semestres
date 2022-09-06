@@ -10,6 +10,9 @@
 - [Python for beginners | Microsoft course](https://youtube.com/playlist?list=PLlrxD0HtieHhS8VzuMCfQD4uJ9yne1mE6)
 ## Скриншоты
 ![изображение](https://user-images.githubusercontent.com/86486142/188391263-0ad59825-ea59-4a24-8a28-72737fdf1875.png)
+Система оценивания на демоэкзамене
+![изображение](https://user-images.githubusercontent.com/86486142/188598740-d03ed7bf-d7ed-4218-aba5-33dd2906b9f5.png)
+Задание 1: UML-диаграмма турагентства
 ## Организация
 Модуль 1: Анализ и проектирование требований, бизнес-процессов - UML-диаграмма<br>
 Модуль 2: Проектирование реляционного хранилища данных - создание БД<br>
