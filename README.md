@@ -1,4 +1,4 @@
-# 7sem
+# Семестр 7. Главная
 ## Содержание
 - [Ссылки](https://github.com/sanyagribanov/7sem/blob/main/README.md#ссылки)
 - [Скриншоты](https://github.com/sanyagribanov/7sem/blob/main/README.md#скриншоты)
