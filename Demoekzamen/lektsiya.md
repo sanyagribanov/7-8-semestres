@@ -1,8 +1,8 @@
 # Демоэкзамен
 ## Диаграммы
 ### Содержание:
-- [UML-диаграммыl]()
-- [ER-диаграммыl]()
+- [UML-диаграммы](https://github.com/sanyagribanov/7sem/blob/main/Demoekzamen/lektsiya.md#что_это_такое)
+- [ER-диаграммы](https://github.com/sanyagribanov/7sem/blob/main/Demoekzamen/lektsiya.md#ER-диаграммы)
 ### Что это такое?
 UML (Unified Modeling Language) - международный язык рисования схем<br>
 ### Плюсы и минусы UML
