@@ -1,5 +1,5 @@
 https://github.com/Julia-Zhirnova/Demoekzamen/blob/main/2 задание Глазки-Save/Сессия 1/ms.sql
 Изучить файлы для импорта
-Турагенство https://github.com/Julia-Zhirnova/Demoekzamen/tree/main/0 WorldSkills/6_Working with unstructured data
-Глазки-save https://github.com/Julia-Zhirnova/Demoekzamen/tree/main/2 задание Глазки-Save/Сессия 1
-прокат благодать https://github.com/Julia-Zhirnova/Demoekzamen/tree/main/7 задание 2022/09_1.2-2022_10/Вариант 10/горнолыжный курорт/Сессия 1
+Турагенство https://github.com/Julia-Zhirnova/Demoekzamen/tree/main/0 WorldSkills/6_Working with unstructured data - скоро все будет
+Глазки-save https://github.com/Julia-Zhirnova/Demoekzamen/tree/main/2 задание Глазки-Save/Сессия 1 - есть
+прокат благодать https://github.com/Julia-Zhirnova/Demoekzamen/tree/main/7 задание 2022/09_1.2-2022_10/Вариант 10/горнолыжный курорт/Сессия 1 - скоро все будет
