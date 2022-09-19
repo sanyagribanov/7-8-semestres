@@ -9,6 +9,7 @@
 - [Конспект](https://github.com/sanyagribanov/7sem/blob/main/Demoekzamen/lektsiya.md)
 - [Python for beginners | Microsoft course](https://youtube.com/playlist?list=PLlrxD0HtieHhS8VzuMCfQD4uJ9yne1mE6)
 - [впр](https://support.microsoft.com/ru-ru/office/%D1%84%D1%83%D0%BD%D0%BA%D1%86%D0%B8%D1%8F-%D0%B2%D0%BF%D1%80-0bbc8083-26fe-4963-8ab8-93a18ad188a1)
+- [курс renpy](https://www.youtube.com/channel/UCWJ_pUkd4-oFSr8HPaCuUkw/videos)
 ## Скриншоты
 ![изображение](https://user-images.githubusercontent.com/86486142/188391263-0ad59825-ea59-4a24-8a28-72737fdf1875.png)
 Система оценивания на демоэкзамене
