@@ -1,5 +1,3 @@
 # Проект визуальной новеллы
-текущий прогресс:
-* создание спрайтов - 5%
-* создание сюжета - ~15%
-* музыкальное сопровождение - 0%
+Работа на визуальной новеллой описана здесь:
+https://docs.google.com/spreadsheets/d/1q3xOZwFXwbjiD5ay-vw_fn9-IFFISVtx6sUupZaKgZA/edit?usp=sharing
