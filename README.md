@@ -22,7 +22,7 @@
 ![изображение](https://user-images.githubusercontent.com/86486142/189847875-a5179488-ec7e-4ef5-ba89-82b605550797.png)
 ER-диаграмма тестовой БД
 
-![изображение](https://user-images.githubusercontent.com/86486142/190353991-a49dd25c-60ae-41ec-a5af-9a0735ae11c5.png)
+![изображение](https://user-images.githubusercontent.com/86486142/191195581-9b805413-d54e-469b-9474-b3289427b2d0.png)
 ER-диграмма GlazkiSave
 ---
 ## Организация
