@@ -3,7 +3,7 @@
 ### Содержание:
 - [UML-диаграммы](https://github.com/sanyagribanov/7sem/blob/main/Demoekzamen/lektsiya.md#что-это-такое)
 - [ER-диаграммы](https://github.com/sanyagribanov/7sem/blob/main/Demoekzamen/lektsiya.md#ER-диаграммы)
-
+- [WPF](https://github.com/sanyagribanov/7sem/blob/main/Demoekzamen/lektsiya.md#wpf)
 ---
 ### Что это такое?
 UML (Unified Modeling Language) - международный язык рисования схем<br>
