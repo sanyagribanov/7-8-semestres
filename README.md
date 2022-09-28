@@ -5,7 +5,7 @@
 - [Организация](https://github.com/sanyagribanov/7sem/blob/main/README.md#организация)
 ## Ссылки
 - [Информация по демоэкзамену](https://api.dp.worldskills.ru/api/esatk/docs/4d0d9337-1f31-4306-89bb-f3b279e80642)
-- [Список ссылок по демоэкзамену](https://vk.com/away.php?utf=1&to=https%3A%2F%2Fdocs.google.com%2Fdocument%2Fd%2F17dkgRFIxEAdOvFsUuCD5TGeWHCqcC7U-Ha5MJ0EfdtI%2Fedit%23)'=
+- [Список ссылок по демоэкзамену](https://vk.com/away.php?utf=1&to=https%3A%2F%2Fdocs.google.com%2Fdocument%2Fd%2F17dkgRFIxEAdOvFsUuCD5TGeWHCqcC7U-Ha5MJ0EfdtI%2Fedit%23)
 - [Конспект](https://github.com/sanyagribanov/7sem/blob/main/Demoekzamen/lektsiya.md)
 - [Python for beginners | Microsoft course](https://youtube.com/playlist?list=PLlrxD0HtieHhS8VzuMCfQD4uJ9yne1mE6)
 - [впр](https://support.microsoft.com/ru-ru/office/%D1%84%D1%83%D0%BD%D0%BA%D1%86%D0%B8%D1%8F-%D0%B2%D0%BF%D1%80-0bbc8083-26fe-4963-8ab8-93a18ad188a1)
