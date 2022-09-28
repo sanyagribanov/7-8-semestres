@@ -14,17 +14,18 @@
 ## Скриншоты
 ![изображение](https://user-images.githubusercontent.com/86486142/188391263-0ad59825-ea59-4a24-8a28-72737fdf1875.png)
 Система оценивания на демоэкзамене
-
 ---
 ![изображение](https://user-images.githubusercontent.com/86486142/188599047-651f31c4-8107-4fc9-b0d9-7353ead2182e.png)
 Задание 1: UML-диаграмма турагентства
-
 ---
 ![изображение](https://user-images.githubusercontent.com/86486142/189847875-a5179488-ec7e-4ef5-ba89-82b605550797.png)
 ER-диаграмма тестовой БД
 
 ![изображение](https://user-images.githubusercontent.com/86486142/191195581-9b805413-d54e-469b-9474-b3289427b2d0.png)
 ER-диграмма GlazkiSave
+---
+![изображение](https://user-images.githubusercontent.com/86486142/192780250-ea8999ac-89e5-4c15-b085-9fc902ebf675.png)
+WPF приложение базы данных
 ---
 ## Организация
 Модуль 1: Анализ и проектирование требований, бизнес-процессов - UML-диаграмма<br>
