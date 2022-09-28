@@ -1,0 +1,204 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+  <!-- EF Runtime content -->
+  <edmx:Runtime>
+    <!-- SSDL content -->
+    <edmx:StorageModels>
+      <Schema Namespace="Хранилище glazki_saveModel" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+        <EntityType Name="agents">
+          <Key>
+            <PropertyRef Name="Id" />
+          </Key>
+          <Property Name="Id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+          <Property Name="type_agent" Type="nvarchar" MaxLength="50" Nullable="false" />
+          <Property Name="email_agent" Type="nvarchar" MaxLength="50" Nullable="false" />
+          <Property Name="phone_agent" Type="nvarchar" MaxLength="50" Nullable="false" />
+          <Property Name="logo_agent" Type="nvarchar" MaxLength="50" Nullable="false" />
+          <Property Name="uradress_agent" Type="nvarchar" MaxLength="50" Nullable="false" />
+          <Property Name="priority" Type="nvarchar" MaxLength="50" Nullable="false" />
+          <Property Name="director" Type="nvarchar" MaxLength="50" Nullable="false" />
+          <Property Name="INN" Type="bigint" Nullable="false" />
+          <Property Name="KPP" Type="int" Nullable="false" />
+        </EntityType>
+        <EntityType Name="product_agent">
+          <Key>
+            <PropertyRef Name="Id" />
+          </Key>
+          <Property Name="Id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+          <Property Name="name_production" Type="int" Nullable="false" />
+          <Property Name="type_production" Type="nvarchar" MaxLength="50" Nullable="false" />
+          <Property Name="articul" Type="int" Nullable="false" />
+          <Property Name="num_of_personal" Type="tinyint" Nullable="false" />
+          <Property Name="num_of_manufactory" Type="tinyint" Nullable="false" />
+          <Property Name="min_price_for_agent" Type="money" Nullable="false" />
+        </EntityType>
+        <EntityType Name="productsale">
+          <Key>
+            <PropertyRef Name="Id" />
+          </Key>
+          <Property Name="Id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+          <Property Name="prod" Type="varchar(max)" Nullable="false" />
+          <Property Name="agent" Type="int" Nullable="false" />
+          <Property Name="date_realize" Type="date" Nullable="false" />
+          <Property Name="num_of_prod" Type="int" Nullable="false" />
+        </EntityType>
+        <EntityContainer Name="Хранилище glazki_saveModelContainer">
+          <EntitySet Name="agents" EntityType="Self.agents" Schema="dbo" store:Type="Tables" />
+          <EntitySet Name="product_agent" EntityType="Self.product_agent" Schema="dbo" store:Type="Tables" />
+          <EntitySet Name="productsale" EntityType="Self.productsale" Schema="dbo" store:Type="Tables" />
+        </EntityContainer>
+      </Schema>
+    </edmx:StorageModels>
+    <!-- CSDL content -->
+    <edmx:ConceptualModels>
+      <Schema Namespace="glazki_saveModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+        <EntityType Name="agents">
+          <Key>
+            <PropertyRef Name="Id" />
+          </Key>
+          <Property Name="Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+          <Property Name="type_agent" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+          <Property Name="email_agent" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+          <Property Name="phone_agent" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+          <Property Name="logo_agent" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+          <Property Name="uradress_agent" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+          <Property Name="priority" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+          <Property Name="director" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+          <Property Name="INN" Type="Int64" Nullable="false" />
+          <Property Name="KPP" Type="Int32" Nullable="false" />
+          <NavigationProperty Name="productsale" Relationship="glazki_saveModel.agentsproductsale" FromRole="agents" ToRole="productsale" />
+          <NavigationProperty Name="product_agent" Relationship="glazki_saveModel.agentsproduct_agent" FromRole="agents" ToRole="product_agent" />
+        </EntityType>
+        <EntityType Name="product_agent">
+          <Key>
+            <PropertyRef Name="Id" />
+          </Key>
+          <Property Name="Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+          <Property Name="name_production" Type="Int32" Nullable="false" />
+          <Property Name="type_production" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+          <Property Name="articul" Type="Int32" Nullable="false" />
+          <Property Name="num_of_personal" Type="Byte" Nullable="false" />
+          <Property Name="num_of_manufactory" Type="Byte" Nullable="false" />
+          <Property Name="min_price_for_agent" Type="Decimal" Precision="19" Scale="4" Nullable="false" />
+          <NavigationProperty Name="agents" Relationship="glazki_saveModel.agentsproduct_agent" FromRole="product_agent" ToRole="agents" />
+          <Property Name="agentsId" Type="Int32" Nullable="false" />
+        </EntityType>
+        <EntityType Name="productsale">
+          <Key>
+            <PropertyRef Name="Id" />
+          </Key>
+          <Property Name="Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+          <Property Name="prod" Type="String" MaxLength="Max" FixedLength="false" Unicode="false" Nullable="false" />
+          <Property Name="agent" Type="Int32" Nullable="false" />
+          <Property Name="date_realize" Type="DateTime" Nullable="false" Precision="0" />
+          <Property Name="num_of_prod" Type="Int32" Nullable="false" />
+          <NavigationProperty Name="agents" Relationship="glazki_saveModel.agentsproductsale" FromRole="productsale" ToRole="agents" />
+          <Property Name="agentsId" Type="Int32" Nullable="false" />
+        </EntityType>
+        <EntityContainer Name="glazki_saveEntities" annotation:LazyLoadingEnabled="true">
+          <EntitySet Name="agents" EntityType="Self.agents" />
+          <EntitySet Name="product_agent" EntityType="Self.product_agent" />
+          <EntitySet Name="productsale" EntityType="Self.productsale" />
+          <AssociationSet Name="agentsproductsale" Association="glazki_saveModel.agentsproductsale">
+            <End Role="agents" EntitySet="agents" />
+            <End Role="productsale" EntitySet="productsale" />
+          </AssociationSet>
+          <AssociationSet Name="agentsproduct_agent" Association="glazki_saveModel.agentsproduct_agent">
+            <End Role="agents" EntitySet="agents" />
+            <End Role="product_agent" EntitySet="product_agent" />
+          </AssociationSet>
+        </EntityContainer>
+        <Association Name="agentsproductsale">
+          <End Type="glazki_saveModel.agents" Role="agents" Multiplicity="1" />
+          <End Type="glazki_saveModel.productsale" Role="productsale" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="agents">
+              <PropertyRef Name="Id" />
+            </Principal>
+            <Dependent Role="productsale">
+              <PropertyRef Name="agentsId" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <Association Name="agentsproduct_agent">
+          <End Type="glazki_saveModel.agents" Role="agents" Multiplicity="1" />
+          <End Type="glazki_saveModel.product_agent" Role="product_agent" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="agents">
+              <PropertyRef Name="Id" />
+            </Principal>
+            <Dependent Role="product_agent">
+              <PropertyRef Name="agentsId" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+      </Schema>
+    </edmx:ConceptualModels>
+    <!-- C-S mapping content -->
+    <edmx:Mappings>
+      <Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+        <EntityContainerMapping StorageEntityContainer="Хранилище glazki_saveModelContainer" CdmEntityContainer="glazki_saveEntities">
+          <EntitySetMapping Name="agents">
+            <EntityTypeMapping TypeName="glazki_saveModel.agents">
+              <MappingFragment StoreEntitySet="agents">
+                <ScalarProperty Name="Id" ColumnName="Id" />
+                <ScalarProperty Name="type_agent" ColumnName="type_agent" />
+                <ScalarProperty Name="email_agent" ColumnName="email_agent" />
+                <ScalarProperty Name="phone_agent" ColumnName="phone_agent" />
+                <ScalarProperty Name="logo_agent" ColumnName="logo_agent" />
+                <ScalarProperty Name="uradress_agent" ColumnName="uradress_agent" />
+                <ScalarProperty Name="priority" ColumnName="priority" />
+                <ScalarProperty Name="director" ColumnName="director" />
+                <ScalarProperty Name="INN" ColumnName="INN" />
+                <ScalarProperty Name="KPP" ColumnName="KPP" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+          <EntitySetMapping Name="product_agent">
+            <EntityTypeMapping TypeName="glazki_saveModel.product_agent">
+              <MappingFragment StoreEntitySet="product_agent">
+                <ScalarProperty Name="Id" ColumnName="Id" />
+                <ScalarProperty Name="name_production" ColumnName="name_production" />
+                <ScalarProperty Name="type_production" ColumnName="type_production" />
+                <ScalarProperty Name="articul" ColumnName="articul" />
+                <ScalarProperty Name="num_of_personal" ColumnName="num_of_personal" />
+                <ScalarProperty Name="num_of_manufactory" ColumnName="num_of_manufactory" />
+                <ScalarProperty Name="min_price_for_agent" ColumnName="min_price_for_agent" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+          <EntitySetMapping Name="productsale">
+            <EntityTypeMapping TypeName="glazki_saveModel.productsale">
+              <MappingFragment StoreEntitySet="productsale">
+                <ScalarProperty Name="Id" ColumnName="Id" />
+                <ScalarProperty Name="prod" ColumnName="prod" />
+                <ScalarProperty Name="agent" ColumnName="agent" />
+                <ScalarProperty Name="date_realize" ColumnName="date_realize" />
+                <ScalarProperty Name="num_of_prod" ColumnName="num_of_prod" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+        </EntityContainerMapping>
+      </Mapping>
+    </edmx:Mappings>
+  </edmx:Runtime>
+  <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <Connection>
+      <DesignerInfoPropertySet>
+        <DesignerProperty Name="MetadataArtifactProcessing" Value="EmbedInOutputAssembly" />
+      </DesignerInfoPropertySet>
+    </Connection>
+    <Options>
+      <DesignerInfoPropertySet>
+        <DesignerProperty Name="ValidateOnBuild" Value="true" />
+        <DesignerProperty Name="EnablePluralization" Value="false" />
+        <DesignerProperty Name="IncludeForeignKeysInModel" Value="true" />
+        <DesignerProperty Name="UseLegacyProvider" Value="false" />
+        <DesignerProperty Name="CodeGenerationStrategy" Value="Нет" />
+      </DesignerInfoPropertySet>
+    </Options>
+    <!-- Diagram content (shape and connector positions) -->
+    <Diagrams></Diagrams>
+  </Designer>
+</edmx:Edmx>
