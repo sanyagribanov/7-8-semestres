@@ -26,6 +26,11 @@ ER-диграмма GlazkiSave
 ---
 ![изображение](https://user-images.githubusercontent.com/86486142/192780250-ea8999ac-89e5-4c15-b085-9fc902ebf675.png)
 WPF приложение базы данных
+
+![image](https://user-images.githubusercontent.com/86486142/196881237-fcf7001f-ae66-4c18-ac2f-a431b9a3ca7f.png)
+
+![image](https://user-images.githubusercontent.com/86486142/196881366-e72f2ded-4ae3-455a-a6b6-3f21fa07e610.png)
+
 ---
 ## Организация
 Модуль 1: Анализ и проектирование требований, бизнес-процессов - UML-диаграмма<br>
