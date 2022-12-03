@@ -13,8 +13,3 @@ https://disk.yandex.ru/i/U3f1bcmCJp1qYw
 ![изображение](https://user-images.githubusercontent.com/86486142/205281022-992c6bfc-cc2d-41c7-94db-a96279ae6728.png)
 ![изображение](https://user-images.githubusercontent.com/86486142/205281034-3d56b52e-0a3e-4598-bc6b-67765763823d.png)
 ![изображение](https://user-images.githubusercontent.com/86486142/205281193-c4b90a79-eff2-403b-94f2-8548c08f6479.png)
-
-
-
-
-
