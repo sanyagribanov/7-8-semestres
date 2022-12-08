@@ -7,4 +7,4 @@ def test_wrong_age():
 
 def show_error():
     with pytest.raises(FileNotFoundError):
-        show_csv()
+        assert show_csv()
