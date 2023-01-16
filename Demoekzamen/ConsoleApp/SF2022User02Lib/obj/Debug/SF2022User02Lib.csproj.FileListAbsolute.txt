@@ -1,0 +1,5 @@
+C:\Users\Администратор\source\repos\SF2022User02Lib\SF2022User02Lib\bin\Debug\SF2022User02Lib.dll
+C:\Users\Администратор\source\repos\SF2022User02Lib\SF2022User02Lib\bin\Debug\SF2022User02Lib.pdb
+C:\Users\Администратор\source\repos\SF2022User02Lib\SF2022User02Lib\obj\Debug\SF2022User02Lib.csproj.CoreCompileInputs.cache
+C:\Users\Администратор\source\repos\SF2022User02Lib\SF2022User02Lib\obj\Debug\SF2022User02Lib.dll
+C:\Users\Администратор\source\repos\SF2022User02Lib\SF2022User02Lib\obj\Debug\SF2022User02Lib.pdb
