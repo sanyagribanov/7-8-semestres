@@ -41,6 +41,11 @@ WPF приложение базы данных
 ![изображение](https://user-images.githubusercontent.com/86486142/199696091-71476c5b-9f90-45b8-aea6-96358ff1bf8c.png)
 вывод ФИО пользователя из базы
 
+## Генерация штрих-кода в приложении WPF
+![изображение](https://user-images.githubusercontent.com/86486142/213458150-45e94319-d313-43f0-bde3-07ec22890a88.png)
+![изображение](https://user-images.githubusercontent.com/86486142/213458166-4cb4b263-bd4b-4a23-8996-f23fec1e2626.png)
+![изображение](https://user-images.githubusercontent.com/86486142/213458180-b318cada-8e28-4b97-b39e-6f2659fcee7e.png)
+
 ---
 ## Организация
 Модуль 1: Анализ и проектирование требований, бизнес-процессов - UML-диаграмма<br>
