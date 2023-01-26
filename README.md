@@ -46,6 +46,8 @@ WPF приложение базы данных
 ![изображение](https://user-images.githubusercontent.com/86486142/213458166-4cb4b263-bd4b-4a23-8996-f23fec1e2626.png)
 ![изображение](https://user-images.githubusercontent.com/86486142/213458180-b318cada-8e28-4b97-b39e-6f2659fcee7e.png)
 
+# Сохранение отчета в Word и Excel
+![изображение](https://user-images.githubusercontent.com/86486142/214266826-aea8f098-ff23-4fe6-a223-12e2c98d9dc7.png)
 ---
 ## Организация
 Модуль 1: Анализ и проектирование требований, бизнес-процессов - UML-диаграмма<br>
