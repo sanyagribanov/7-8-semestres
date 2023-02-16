@@ -13,3 +13,6 @@ upd: баг в начале исправлен<br>
 ## День 2 (28.01.2023)
 Добавлена новая локация - комната Шарлотты
 ![image](https://user-images.githubusercontent.com/86486142/215228091-eacafa7a-eba8-4098-8c13-f8f789207b3f.png)
+## День 3 (16.02.2023)
+Работа беты игры на Linux (Debian 11)
+[Видео](https://disk.yandex.ru/i/Oh3ii8aSzBGayA)
