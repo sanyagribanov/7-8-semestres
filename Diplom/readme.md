@@ -40,4 +40,10 @@ upd: баг в начале исправлен<br>
 
 ### День 5 (21.02.2023)
 Исправлен баг с выбором вариантов. Теперь игрока в случае ложного выбора перебрасывает обратно в меню<br>
-[Видео](https://disk.yandex.ru/i/K4tcJbhQZpwiBQ)
+[Видео](https://disk.yandex.ru/i/K4tcJbhQZpwiBQ)<br>
+Работа визуальной новеллы на MacOS<br>
+Версия MacOS: Catalina<br>
+Виртуальная машина: VMWare Workstation Pro 17<br>
+![image](https://user-images.githubusercontent.com/86486142/220372875-80f15a05-343d-4bde-9837-e0318639725b.png)<br>
+[Видео](https://disk.yandex.ru/i/FPAAsig8xmfekQ)
+
