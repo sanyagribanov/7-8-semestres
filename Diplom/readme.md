@@ -47,5 +47,5 @@ upd: баг в начале исправлен<br>
 Версия MacOS: Catalina<br>
 Виртуальная машина: VMWare Workstation Pro 17<br>
 ![image](https://user-images.githubusercontent.com/86486142/220372875-80f15a05-343d-4bde-9837-e0318639725b.png)<br>
-[Видео](https://disk.yandex.ru/i/FPAAsig8xmfekQ)
-
+[Видео](https://disk.yandex.ru/i/FPAAsig8xmfekQ)<br>
+(Можно перемотать или ускорить видео, так как мощности моего компьютера слишком мало для работы виртуальной машины)
