@@ -1,6 +1,6 @@
 # Тут будет описываться процесс работы над визуальной новеллой
 ## Загрузка
-Загрузить можно [отсюда](https://github.com/sanyagribanov/7-8-semestres/blob/main/Diplom/Download.md)
+Скачать игру можно [отсюда](https://github.com/sanyagribanov/7-8-semestres/blob/main/Diplom/Download.md)
 ## Навигация
 [День 1](#день-1-26012023)<br>
 [День 2](#день-2-28012023)<br>
