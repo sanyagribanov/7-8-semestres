@@ -20,7 +20,7 @@ upd: баг в начале исправлен<br>
 ![image](https://user-images.githubusercontent.com/86486142/214918401-a1420bc5-bdf8-4881-a108-22ab5b1b12c0.png)
 ---
 ### День 2 (28.01.2023)
-Добавлена новая локация - комната Шарлотты
+Добавлена новая локация: Комната Шарлотты
 ![image](https://user-images.githubusercontent.com/86486142/215228091-eacafa7a-eba8-4098-8c13-f8f789207b3f.png)
 ### День 3 (16.02.2023)
 Работа беты игры на Linux (Debian 11)
@@ -60,3 +60,7 @@ upd: баг в начале исправлен<br>
 
 2. Закончен пролог истории и начато основное действие (первый день путешествия)
 ![screenshot0013](https://user-images.githubusercontent.com/86486142/221037576-c500b15a-75d7-4b49-9802-11153635100f.png)
+
+### День 7 (25.02.2023)
+Добавлена новая локация: Поле
+![screenshot0014](https://user-images.githubusercontent.com/86486142/221304460-0033c419-ea0f-4a09-ad1e-5d4455e5dd0f.png)
