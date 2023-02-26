@@ -8,4 +8,6 @@ https://disk.yandex.ru/d/u7vK6NfPXpHQ-A
 https://disk.yandex.ru/d/tMXs-jalL5G1kw
 
 
-[Click me](http://www.google.com){: .btn}
+Lorem ipsum dolor sit amet.
+
+{% include button.html url="http://www.google.com" %}
