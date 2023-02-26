@@ -65,3 +65,15 @@ upd: баг в начале исправлен<br>
 ### День 7 (25.02.2023)
 Добавлена новая локация: Поле
 ![screenshot0014](https://user-images.githubusercontent.com/86486142/221304460-0033c419-ea0f-4a09-ad1e-5d4455e5dd0f.png)
+
+### День 8 (26.02.2023)
+1. Полностью заменена музыка в игре
+2. Добавлены новые звуковые эффекты
+3. Добавлены:
+- фон: Небо
+![nebo](https://user-images.githubusercontent.com/86486142/221414771-8f23c8c6-1e7c-4f4a-82a6-a8b4a0d8d9ba.png)
+
+- ЦГ: Тетрадь Шарлотты
+![notebook](https://user-images.githubusercontent.com/86486142/221414794-eb650552-2055-415b-b45b-9ec8e13095a8.png)
+
+[Видео](https://disk.yandex.ru/i/H6xiHTKEsOtxhA)
