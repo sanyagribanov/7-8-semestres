@@ -77,7 +77,7 @@ upd: баг в начале исправлен<br>
 - ЦГ: Тетрадь Шарлотты
 ![notebook](https://user-images.githubusercontent.com/86486142/221414794-eb650552-2055-415b-b45b-9ec8e13095a8.png)
 
-[Видео](https://disk.yandex.ru/i/H6xiHTKEsOtxhA)
+[Видео](https://disk.yandex.ru/i/H6xiHTKEsOtxhA)<br>
 4. Исправлены следующие баги:
 - зацикленный стук в дверь
 - непрекращающееся воспроизведение звукового эффекта после окончания игры
