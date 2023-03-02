@@ -4,6 +4,7 @@
 - [Скриншоты](https://github.com/sanyagribanov/7sem/blob/main/README.md#скриншоты)
 - [Организация](https://github.com/sanyagribanov/7sem/blob/main/README.md#организация)
 ## Ссылки
+- [Диплом](https://github.com/sanyagribanov/7-8-semestres/tree/main/Diplom)
 - [Информация по демоэкзамену](https://api.dp.worldskills.ru/api/esatk/docs/4d0d9337-1f31-4306-89bb-f3b279e80642)
 - [Список ссылок по демоэкзамену](https://vk.com/away.php?utf=1&to=https%3A%2F%2Fdocs.google.com%2Fdocument%2Fd%2F17dkgRFIxEAdOvFsUuCD5TGeWHCqcC7U-Ha5MJ0EfdtI%2Fedit%23)
 - [Конспект](https://github.com/sanyagribanov/7sem/blob/main/Demoekzamen/lektsiya.md)
@@ -12,6 +13,7 @@
 - [курс renpy](https://www.youtube.com/channel/UCWJ_pUkd4-oFSr8HPaCuUkw/videos)
 - [Cловари БД (3 в 1 книге)](https://docs.google.com/spreadsheets/d/1Q7vKNI8z9uVzypCWyI64U1GzaBEXktzD/edit?usp=sharing&ouid=107800001252870464813&rtpof=true&sd=true)
 - [актуальная репа с заданиями на демоэкзамен](https://github.com/sanyagribanov/demo.git)
+
 ## Скриншоты
 ![изображение](https://user-images.githubusercontent.com/86486142/188391263-0ad59825-ea59-4a24-8a28-72737fdf1875.png)
 Система оценивания на демоэкзамене
