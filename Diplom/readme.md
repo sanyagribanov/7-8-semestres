@@ -86,7 +86,7 @@ upd: баг в начале исправлен<br>
 (дистрибутивы переделаны и загружены на Яндекс Диск)
 
 ### День 9 (28.02.2023)
-1. Добавлен новый персонаж: Девушка<br>![screenshot0017](https://user-images.githubusercontent.com/86486142/221965604-aad45dcb-3ebe-43d2-b6f3-d38989952ebc.png)
+1. Добавлен новый персонаж: Девушка (Марта)<br>![screenshot0017](https://user-images.githubusercontent.com/86486142/221965604-aad45dcb-3ebe-43d2-b6f3-d38989952ebc.png)
 
 2. Добавлен новый выбор<br>![screenshot0018](https://user-images.githubusercontent.com/86486142/221965647-e469a1fd-c29b-4541-bb85-1dd810980e69.png)
 
