@@ -107,5 +107,6 @@ upd: баг в начале исправлен<br>
 2. Добавлены новые фоны:
   - Вечерняя Дорога (2 вариант)![trail_sunset_1](https://user-images.githubusercontent.com/86486142/222532432-34b41257-31c7-49ad-8782-2c6fdfcf8631.png)
   - Дом Марты![house_sunset](https://user-images.githubusercontent.com/86486142/222532480-35e3838a-923c-4653-9b09-5833324ad3b3.jpeg)
+[Видео](https://disk.yandex.ru/i/m6h9fTbLzaM5Iw)
 ---
 [Навигация](#навигация)
