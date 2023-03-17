@@ -118,7 +118,8 @@ upd: баг в начале исправлен<br>
 [Навигация](#навигация)
 
 ### День 12 (18.03.2023)
-1. Заменен игровой курсор![image](https://user-images.githubusercontent.com/86486142/226055816-ace51d39-9328-412d-a63e-f77d129bc15f.png)
+1. Заменен игровой курсор
+![image](https://user-images.githubusercontent.com/86486142/226055816-ace51d39-9328-412d-a63e-f77d129bc15f.png)
 2. Добавлены новые фоны:
   - Чердак (ночь)![image](https://user-images.githubusercontent.com/86486142/226056477-191d2542-dc3a-49c9-ae1d-c4b0955f82d8.png)
   - Чердак (утро)![image](https://user-images.githubusercontent.com/86486142/226056539-cf59ec73-9515-4092-a273-4dc7dc939aa5.png)
