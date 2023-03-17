@@ -124,5 +124,5 @@ upd: баг в начале исправлен<br>
   - Чердак (ночь)![image](https://user-images.githubusercontent.com/86486142/226056477-191d2542-dc3a-49c9-ae1d-c4b0955f82d8.png)
   - Чердак (утро)![image](https://user-images.githubusercontent.com/86486142/226056539-cf59ec73-9515-4092-a273-4dc7dc939aa5.png)
 3. Начат 2 день истории и проработаны две плохие концовки
-4. Добавлен эффект закрытия и открытия глаз героини
+4. Добавлен эффект закрытия и открытия глаз героини<br>
 [Видео](https://disk.yandex.ru/i/arIulpux62rwPA)
