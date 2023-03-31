@@ -4,6 +4,7 @@
 - [Скриншоты](https://github.com/sanyagribanov/7sem/blob/main/README.md#скриншоты)
 - [Организация](https://github.com/sanyagribanov/7sem/blob/main/README.md#организация)
 ## Ссылки
+- [Какие-то видиво по WPF](https://youtube.com/playlist?list=PLR5U_v6qflsEoODJpNB545obFDImuadg0)
 - [Диплом](https://github.com/sanyagribanov/7-8-semestres/tree/main/Diplom)
 - [Информация по демоэкзамену](https://api.dp.worldskills.ru/api/esatk/docs/4d0d9337-1f31-4306-89bb-f3b279e80642)
 - [Список ссылок по демоэкзамену](https://vk.com/away.php?utf=1&to=https%3A%2F%2Fdocs.google.com%2Fdocument%2Fd%2F17dkgRFIxEAdOvFsUuCD5TGeWHCqcC7U-Ha5MJ0EfdtI%2Fedit%23)
