@@ -136,7 +136,10 @@ upd: баг в начале исправлен<br>
 
 ### День 14 (02.04.2023)
 Успешная сборка новеллы под Андроид<br>
-[Видео](https://youtu.be/gy-L7Tw7pRk)
+![image](https://user-images.githubusercontent.com/86486142/229367048-a886b0cd-e010-469d-b372-af75934ad99a.png)
+![Uploading image.png…]()
+
+[Видео](https://youtu.be/y9GsAh-Nafs)
 ---
 
 [Навигация](#навигация)
