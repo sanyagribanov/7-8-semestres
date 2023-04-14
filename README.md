@@ -12,7 +12,8 @@
 - [Конспект](https://github.com/sanyagribanov/7sem/blob/main/Demoekzamen/lektsiya.md)
 - [Python for beginners | Microsoft course](https://youtube.com/playlist?list=PLlrxD0HtieHhS8VzuMCfQD4uJ9yne1mE6)
 - [впр](https://support.microsoft.com/ru-ru/office/%D1%84%D1%83%D0%BD%D0%BA%D1%86%D0%B8%D1%8F-%D0%B2%D0%BF%D1%80-0bbc8083-26fe-4963-8ab8-93a18ad188a1)
-- [курс renpy](https://www.youtube.com/channel/UCWJ_pUkd4-oFSr8HPaCuUkw/videos)
+- [Курс Ren'Py от Кота](https://www.youtube.com/channel/UCWJ_pUkd4-oFSr8HPaCuUkw/videos)
+- [Курс Ren'Py от Mary Developer](https://youtube.com/@-renpyrabicokocho5346)
 - [Cловари БД (3 в 1 книге)](https://docs.google.com/spreadsheets/d/1Q7vKNI8z9uVzypCWyI64U1GzaBEXktzD/edit?usp=sharing&ouid=107800001252870464813&rtpof=true&sd=true)
 - [актуальная репа с заданиями на демоэкзамен](https://github.com/sanyagribanov/demo.git)
 
