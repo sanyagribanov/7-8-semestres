@@ -6,6 +6,6 @@
 # 32-битные системы
 ## Для [Windows](https://disk.yandex.ru/d/H0qf16W47yU3EQ)
 ## ДЛя [Linux](https://disk.yandex.ru/d/oJu18fxMBzpG6A)
-## Для [MacOS](hhttps://disk.yandex.ru/d/Eay4U5h2uXBugQ)
+## Для [MacOS](https://disk.yandex.ru/d/Eay4U5h2uXBugQ)
 # Мобильные устройства
 ## Для [Android](https://disk.yandex.ru/d/qghOUJdUiVmQAQ)
