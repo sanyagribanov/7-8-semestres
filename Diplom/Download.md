@@ -9,5 +9,6 @@
 ### [Linux](https://disk.yandex.ru/d/oJu18fxMBzpG6A)
 ### [MacOS](https://disk.yandex.ru/d/Eay4U5h2uXBugQ)
 ## Мобильные устройства
-### [Android](https://disk.yandex.ru/d/LLyNxueMF35qxg)
+### [Android](https://disk.yandex.ru/d/LLyNxueMF35qxg)<br>
+### [Вторая ссылка на  Android файл](https://drive.google.com/file/d/1BrIzpiQETlJhf1dy4YrlQX_iRNUQY_xu/view?usp=sharing)
  
