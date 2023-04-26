@@ -141,7 +141,7 @@ upd: баг в начале исправлен<br>
 ![image](https://user-images.githubusercontent.com/86486142/229367060-575cf250-1e3f-4c2e-ad18-7ea5b3a2409c.png)
 [Видео](https://youtu.be/y9GsAh-Nafs)
 ### День 15 (26.04.2023)
-Представлена и доступна для скачивания beta 0.7
+Представлена и доступна для скачивания beta 0.7<br>
 Нововведения:
 1) Новый персонаж: Дядя Марты<br>![изображение](https://user-images.githubusercontent.com/86486142/234629417-6aaeba0f-adb0-4c38-a251-ba1ccd6c6cde.png)
 2) Новые фоновые изображения: Станция и Деревенская дорога<br>![screenshot0006](https://user-images.githubusercontent.com/86486142/234629718-ec5816a0-1299-45b5-9d67-6276c3ea166f.png)![screenshot0005](https://user-images.githubusercontent.com/86486142/234644442-a2d7b92e-b8b9-4ef0-8673-c62393d02ad7.png)
