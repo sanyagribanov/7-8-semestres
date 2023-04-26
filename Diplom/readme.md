@@ -143,7 +143,7 @@ upd: баг в начале исправлен<br>
 ### День 15 (26.04.2023)
 Представлена и доступна для скачивания beta 0.7
 Нововведения:
-1) Новый персонаж: Дядя Марты!<br>[изображение](https://user-images.githubusercontent.com/86486142/234629417-6aaeba0f-adb0-4c38-a251-ba1ccd6c6cde.png)
+1) Новый персонаж: Дядя Марты<br>![изображение](https://user-images.githubusercontent.com/86486142/234629417-6aaeba0f-adb0-4c38-a251-ba1ccd6c6cde.png)
 2) Новые фоновые изображения: Станция и Деревенская дорога<br>![screenshot0006](https://user-images.githubusercontent.com/86486142/234629718-ec5816a0-1299-45b5-9d67-6276c3ea166f.png)![screenshot0006](https://user-images.githubusercontent.com/86486142/234629595-65545375-c41b-430e-acdb-89bb10ae63d5.png)
 3) Произведены правки в сценарии первого игрового дня и продолжена работа над вторым игровым днем
 ---
