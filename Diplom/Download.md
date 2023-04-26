@@ -1,9 +1,9 @@
 # Скачать игру:
 (Файлы и ссылки будут обновляться по мере необходимости)
 ## 64-битные системы
-### [Windows](https://disk.yandex.ru/d/E6j33Bns9-P1rg)
-### [Linux](https://disk.yandex.ru/d/ujJ_6ROFd1kEIQ)
-### [MacOS](https://disk.yandex.ru/d/7bjv67Z1OB8lmg)
+### [Windows](https://disk.yandex.ru/d/T0nQQ9f9hQrigA)
+### [Linux](https://disk.yandex.ru/d/FHgcpOuU7WgtvA)
+### [MacOS](https://disk.yandex.ru/d/2lj8anodoaIchQ)
 ## 32-битные системы (ведется перенос на старый движок)
 ### [Windows](https://disk.yandex.ru/d/H0qf16W47yU3EQ)
 ### [Linux](https://disk.yandex.ru/d/oJu18fxMBzpG6A)
