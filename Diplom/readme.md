@@ -172,6 +172,7 @@ upd: баг в начале исправлен<br>
 Представлена и доступна для скачивания beta 0.8.1<br>
 Нововведения:
 1. Изменен выбор в прологе<br>![ezgif-1-b66099af6a](https://github.com/sanyagribanov/7-8-semestres/assets/86486142/e04eb640-5df5-4afc-8797-5765ede796be)
+  [Фулл видео](https://disk.yandex.ru/i/FeiG0XhYcHBuqw)
 2. Новый ЦГ: Шарлотта держит тетрадь<br>![book_hands](https://github.com/sanyagribanov/7-8-semestres/assets/86486142/d32b3ed5-5f74-43f0-b650-9a9c3434e18f)
 3. Новый фон спальни Шарлотты: <br>![bedroom_1](https://github.com/sanyagribanov/7-8-semestres/assets/86486142/32ef4f5b-a780-4996-b3fd-807f9911cf9c)
 
